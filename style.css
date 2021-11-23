@@ -1,0 +1,32 @@
+html{scroll-behavior:smooth;font-family: 'PT Sans Narrow', sans-serif;}
+
+.bg1{background: black;}
+.bg2{background: white;}
+.bg4{background: grey;}
+
+
+
+.logo img{width: 12%;margin-left: 10%;}
+.nav-item{font-size: 1.2rem;}
+.redes img{width: 15%;margin-top: 5%;margin-left: 5%;}
+.carousel-inner img{width: 100%;margin-top: 0%;}
+.titulo{text-align: center;margin-top: 2.5%;margin-bottom: 2.5%;}
+.cards{margin-bottom: 2.5%;text-align: center;}
+.cards a{background-color: #FBB141 ;border-color: #FBB141;color: black;}
+.cards a:hover{cursor: pointer;color: white;background-color: black;}
+
+
+
+
+@keyframes mostrar{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.header{
+    animation: mostrar 2s ;
+}
