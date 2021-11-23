@@ -8,8 +8,8 @@ html{scroll-behavior:smooth;font-family: 'PT Sans Narrow', sans-serif;}
 
 .logo img{width: 12%;margin-left: 10%;}
 .nav-item{font-size: 1.2rem;}
-.redes img{width: 15%;margin-top: 5%;margin-left: 5%;}
-.carousel-inner img{width: 100%;margin-top: 0%;}
+.redes img{width: 8%;margin-top: 5%;margin-left: 5%;text-align: center;}
+.carousel-inner img{width: 100%;margin-top: 1.4%;}
 .titulo{text-align: center;margin-top: 2.5%;margin-bottom: 2.5%;}
 .cards{margin-bottom: 2.5%;text-align: center;}
 .cards a{background-color: #FBB141 ;border-color: #FBB141;color: black;}
