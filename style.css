@@ -14,18 +14,9 @@ html{scroll-behavior:smooth;font-family: 'PT Sans Narrow', sans-serif;}
 .cards{margin-bottom: 2.5%;text-align: center;}
 .cards a{background-color: #FBB141 ;border-color: #FBB141;color: black;}
 .cards a:hover{cursor: pointer;color: white;background-color: black;}
+.boton{width: 30%;color: black;border-color:#FBB141;background-color: #FBB141;}
+.boton img{width: 30%;margin-left: 1%;margin-bottom: 1%;}
 
-
-
-
-@keyframes mostrar{
-    0%{
-        opacity: 0;
-    }
-    100%{
-        opacity: 1;
-    }
-}
 
 .header{
     animation: mostrar 2s ;
