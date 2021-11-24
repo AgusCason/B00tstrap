@@ -1,4 +1,5 @@
 html{scroll-behavior:smooth;font-family: 'PT Sans Narrow', sans-serif;}
+body{font-family: 'PT Sans Narrow', sans-serif;}
 
 .bg1{background: black;}
 .bg2{background: white;}
@@ -9,14 +10,16 @@ html{scroll-behavior:smooth;font-family: 'PT Sans Narrow', sans-serif;}
 .logo img{width: 12%;margin-left: 10%;}
 .nav-item{font-size: 1.2rem;}
 .redes img{width: 8%;margin-top: 5%;margin-left: 5%;text-align: center;}
-.carousel-inner img{width: 100%;margin-top: 1.4%;}
+.carousel-inner img{width: 100%;margin-top: 1.3%;}
 .titulo{text-align: center;margin-top: 2.5%;margin-bottom: 2.5%;}
 .cards{margin-bottom: 2.5%;text-align: center;}
 .cards a{background-color: #FBB141 ;border-color: #FBB141;color: black;}
 .cards a:hover{cursor: pointer;color: white;background-color: black;}
 .boton{width: 30%;color: black;border-color:#FBB141;background-color: #FBB141;}
 .boton img{width: 30%;margin-left: 1%;margin-bottom: 1%;}
-
+.uno{margin-top: -7.5%;}
+.dos{margin-top: -0.8%;}
+.tres{margin-top: -12%;}
 
 .header{
     animation: mostrar 2s ;
