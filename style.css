@@ -24,3 +24,24 @@ body{font-family: 'PT Sans Narrow', sans-serif;}
 .header{
     animation: mostrar 2s ;
 }
+
+.bannerf{background-color: #086839;}
+.bannerf img{width: 100%;margin-top: 1.3%;}
+.titulof{text-align: center;margin-top: 1.5%;margin-bottom: 1%;}
+.videof{margin-left: 10%;margin-bottom: 1%;}
+
+
+.tiendaf{background-color: #0B0B0B;}
+.tiendaf img{width: 100%;margin-top: 1.3%;}
+
+.galreds{margin-top: 2%;margin-bottom: 2%;}
+.titulog{text-align: center;margin-top: 4%;margin-bottom: 2.5%;}
+.ft5{margin-top: 8%;}
+.ft6{margin-top: -28% ;}
+.ft8{margin-top: -28%;}
+.ft9{margin-top: 8%;}
+.ft10{margin-top: 8%;}
+.botong{width: 62%; margin-left: 38%;margin-top: 5%;}
+.btng{background-color: #FBB141;border-color:#FBB141;color: black;width: 30%;font-size: 120%;}
+.btng:hover{cursor: pointer;color: #FBB141;background-color: black;}
+.texg{color: black;font-size: 120%;}
