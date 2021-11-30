@@ -62,3 +62,7 @@ body{font-family: 'PT Sans Narrow', sans-serif;}
 .btng{background-color: #FBB141;border-color:#FBB141;color: black;width: 30%;font-size: 120%;}
 .btng:hover{cursor: pointer;color: #FBB141;background-color: black;}
 .texg{color: black;font-size: 120%;}
+
+.textc{margin-top: -5%;text-align: center;}
+.formulario{margin-top: 8%;margin-bottom: -6%;}
+.izqc{padding: 5%;}
