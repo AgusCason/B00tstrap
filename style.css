@@ -60,7 +60,9 @@ body{font-family: 'PT Sans Narrow', sans-serif;}
 .ft10{margin-top: 8%;}
 .botong{width: 62%; margin-left: 38%;margin-top: 5%;}
 .btng{background-color: #FBB141;border-color:#FBB141;color: black;width: 30%;font-size: 120%;}
-.btng:hover{cursor: pointer;color: #FBB141;background-color: black;}
+.btng:hover{cursor: pointer;color: #FBB141;background-color: rgb(146, 146, 146);}
+.btng img{width: 30%;}
+.btng a{text-align: center;}
 .texg{color: black;font-size: 120%;}
 
 .textc{margin-top: -5%;text-align: center;}
