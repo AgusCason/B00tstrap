@@ -22,7 +22,7 @@ body{font-family: 'PT Sans Narrow', sans-serif;}
 .cards a:hover{cursor: pointer;color: white;background-color: black;}
 .boton{width: 30%;color: black;border-color:#FBB141;background-color: #FBB141;}
 .boton img{width: 30%;margin-left: 1%;margin-bottom: 1%;}
-.uno{margin-top: -7.5%;}
+.unos{margin-top: -7.5%;}
 .dos{margin-top: -0.8%;}
 .tres{margin-top: -12%;}
 
